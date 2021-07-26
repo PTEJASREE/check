@@ -1,0 +1,3 @@
+secret.txt
+#these files are ignored
+#*.txt mean all text files are ignored
